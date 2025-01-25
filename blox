@@ -1,0 +1,4 @@
+print(game.PlaceId)
+if game.PlaceId == 2753915549 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/RaitoHub/refs/heads/main/Script"))()
+end
